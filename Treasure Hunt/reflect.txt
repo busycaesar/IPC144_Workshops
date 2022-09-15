@@ -1,0 +1,40 @@
+*****************************************************************************
+                               Reflection
+                             Workshop - #7
+Full Name  : Dev Jigishkumar Shah
+Student ID#: 131623217 
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+
+1. The major benefits of this kind of data types are:
+
+   i.  It helps to declare the variables of same category together. Due to which 
+       a lot of confusion does not even appears. Since we add the tag of structure 
+       before using the variable, it helps to figure out want does a particular
+       variable defines. 
+       For Example, in this workshop, every variable contains either playerSetUp
+       or gameSetUp before its name. Hence, it gets easy to figure out what does 
+       the variable interprets.
+   ii. It provides the facility of declaring multiple types of variables in a
+       single structure. Hence, using the variable becomes very flexible.
+       For Example, in this workshop, in the struct PlayerInfo, I have declared
+       int type and char type variable at the same place.
+
+2. In this case, firstly, one array has to be declared in which the total treasure
+   collected each time would be stored. Secondly, at the last one printf statement
+   in a for loop to print all the elements of that array.
+
+3. The most time consuming part was to think which commands to be use to make 
+   the program perform some particular task and how to put those logically and 
+   sequencially. As a solution, I breaked the desired output in small parts and 
+   gradually, I started using the commands first in small parts and then placed
+   in the accumulated parts. 
+
+    
+       
+      
+   

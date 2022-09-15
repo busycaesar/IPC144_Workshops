@@ -1,0 +1,60 @@
+*****************************************************************************
+                               Reflection
+                             Workshop - #4
+Full Name  : Dev Jigishkumar Shah
+Student ID#: 131623217
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+
+1. In the world of programming, we create software not just for some particular 
+brackets of users, but for everyone. Hence, in order to make sure that everyone's 
+interest in covered in the software, programmers tend to add selection in the software
+which makes it diverse for everyone to use. Apart from this, selection also helps in 
+choosing qualtity and quality of some resources and giving the appropriate responses 
+according to the user input.   
+
+In order to gives an example from part 2, selection is used almost in every logic.
+
+a. While asking for the quantity of produces, if someone enters the value in negative 
+the program will respond with an error message and if the input is a positive integer 
+it will assign the value to the appropriate variable.
+
+b. In the event of picking up the produces, if the user enters a higher value than the
+requirement of the produces, lower value than the requirement of the produces, OR the negative 
+value, program responses error accordingly. While, in case of the same value as required
+the program will show the success message.
+
+c. Lastly when the shopping of produces is over, the program ask user if user want to 
+do the shopping again. If user inputs 0, the program ends and if user inputs 1, the whole 
+program runs again. This is also one of the example of selection. 
+
+2. Nested construct is like sub-option inside an option. It is used to ask the user for 
+more specific detail. In part 2 of this workshop, there are many places where this concept
+is used.
+
+a. The whole program is written in a do-while loop as if the user wants to run the whole 
+program again, it would be possible without any issue or repeating the codes. Even inside
+do-while loop is again used in case the user enters the input which generates an error message,
+the whole loop runs again and ask the same question to the user untill the response is
+compatable.
+
+b. In the do-while loop inside the program, nested if-else is used. This is used to check
+the input from the user. It first checks if the input is greater than the requirement of 
+the produce, then it checks that the quantity is more than or equal to 0 or not, after this
+it checks if the picked up quantity is less then the requirement and lastly it check
+in case the picked up quantity and requirement is same. \
+
+In non-technical language, nested means an option inside another option. 
+
+3. My facourite iteration construct is IF-ELSE loop as it can use used in case the program wants
+to check several conditions of the same input. 
+When comparred to WHILE loop and DO-WHILE loop, it can just check only one condition, and 
+not multiple conditions. Additionally, For loops is just used to repeat something for
+some specific amount of time. It also cannot check multiple conditions.  
+In part 2, I have used nested if loop to check several areas of the user input, whereas, 
+DO-WHILE loop is just used to repeat the steps by checking one condition.   
+ 
