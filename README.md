@@ -1,6 +1,6 @@
 # IPC 144 Introduction to Programming Using C
 
-## These are some of the workshops which we use to get in this course.
+## Some Workshops of IPC 144.
 
 # Warning
 
